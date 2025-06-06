@@ -17,5 +17,5 @@ This is a simple Python project that allows the user to input any URL or text, a
 
 You will see a saved image like this (depending on the input):
 
-![QR Code Example](my_qrcode.png)  
+![QR Code Example](git.png)  
 *(Note: Add this image manually to your repo if you want it to show.)*
